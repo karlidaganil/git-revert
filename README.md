@@ -4,5 +4,5 @@ example for Stack Overflow answer
 
 
 first commit
-second commit
+second commit burası gitmeli ileride
 third commit
