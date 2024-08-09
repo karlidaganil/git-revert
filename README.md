@@ -4,7 +4,7 @@ example for Stack Overflow answer
 
 
 first commit
-second commit burası gitmeli ileride
+second commit
 third commit
 fourt line
 fift line
